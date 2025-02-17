@@ -11,7 +11,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
- 
   "homepage": "https://AliBehzadNajib.github.io/COMP2156",
   "repository": {
     "type": "git",
@@ -30,17 +29,15 @@
   "bugs": {
     "url": "https://github.com/AliBehzadNajib/COMP2156/issues"
   },
-
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "web-vitals": "^2.1.4"
-    "gh-pages": "^6.1.1":	
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^6.1.1"
   },
-
   "browserslist": {
     "production": [
       ">0.2%",
